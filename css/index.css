@@ -1,0 +1,22 @@
+/** FONT INPUTS **/
+
+
+
+
+
+
+/** THE BASICS **/
+
+body {
+    background-color: #e0e0e0;
+    margin: 50px 50px 50px 50px;
+
+}
+
+h1 {
+    font-size: 1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: blue;
+}
+
