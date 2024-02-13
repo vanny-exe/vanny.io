@@ -1,5 +1,5 @@
 /** FONT INPUTS **/
-
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
 
@@ -9,14 +9,41 @@
 
 body {
     background-color: #e0e0e0;
-    margin: 50px 50px 50px 50px;
+    margin: 150px 100px 150px 150px;
 
 }
 
 h1 {
-    font-size: 1.2rem;
-    font-family:'Courier New', Courier, monospace;
+    font-size: 3rem;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 700;
     color: blue;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-family:"Space Mono";
+    font-weight: 400;
+    color:blue;
+    width: 450px;
+}
+
+p {
+    font-size: 1rem;
+    font-family: "Karla", sans-serif;
+    font-weight: 400;
+    color: #141414
+}
+
+a, a:link {
+    color:#80d027;
+}
+
+a:hover {
+    color: #baf378;
+}
+
+a:visited {
+    color:#80d027;
 }
 
